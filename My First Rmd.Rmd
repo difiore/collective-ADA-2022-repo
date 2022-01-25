@@ -1,0 +1,21 @@
+---
+title: "This is my test Rmd document"
+author: "Cool prof Di Fiore"
+date: "2022-01-18"
+output: html_document
+---
+
+I am going to write some R code
+
+```{r}
+x <- 1:10
+mean(x)
+print(x)
+```
+
+Here's is another code block with more R code
+
+```{r}
+y <- 10:1
+plot(x, y)
+```
