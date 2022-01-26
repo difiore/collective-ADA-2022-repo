@@ -1,0 +1,16 @@
+---
+title: "Matt's RMarkdown"
+author: "Matt Ming"
+date: "1/25/2022"
+output: html_document
+---
+
+This is my R Markdown file
+
+```{r}
+print("Hello class")
+x <- c(1,3,5)
+sum(x)
+mean(x)
+```
+
