@@ -1,0 +1,14 @@
+---
+title: "kdp.rmd"
+author: "Karim Primov"
+date: "1/26/2022"
+output: html_document
+---
+
+My name is Karim Primov and this is my first Rmd file
+
+```{r}
+x <- 1:10
+y <- 10:1
+plot(x,y)
+```
