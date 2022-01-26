@@ -1,0 +1,24 @@
+---
+title: "SamsRmd"
+author: "Sam Smith"
+date: "1/25/2022"
+output: html_document
+---
+
+```{r}
+```
+
+## R Markdown
+
+This is Sam's Rmarkdown file.
+
+```{r}
+print("hi")
+```
+
+I hope this works.
+
+```{r}
+```
+
+Now that I am a collaborator, let's see if this works.
